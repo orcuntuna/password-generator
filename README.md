@@ -1,6 +1,6 @@
 # Python3 Password Generator
 
-Python3 Secure Password Generator
+Python3 Secure Password Generator Module
 
 **Example output:** *(test.py)*
 
